@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BntVince/Starter.git"
+  },
+  "author": "BntPano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BntVince/Starter/issues"
+  },
+  "homepage": "https://github.com/BntVince/Starter#readme",
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}
